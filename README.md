@@ -1,7 +1,7 @@
 # arrowthegame
 A small windows console game with the charm of pacman and the implementation of pong
 
-The game supports german and english langugae atm. The language is automatically set to german if your system uses german language as default. Otherwise it will switch to wnglish automatically.
+The game supports german and english langugae atm. The language is automatically set to german if your system uses german language as default. Otherwise it will switch to english automatically.
 Localization strings can be found and edited in Language.cs!
 
 ![image](https://github.com/Shibbooo/arrowthegame/assets/38923903/7eb2bfdb-846c-4829-919d-2601aaa6d636)
